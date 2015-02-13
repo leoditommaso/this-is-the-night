@@ -1,2 +1,3 @@
-# this-is-the-night
-Chris Kempson (chriskempson) tomorrow night based theme for vim.
+# tonight-is-the-night
+This is a theme for vim based on the excellent Tomorrow Night theme created by 
+Chris Kempson (chriskempson).
