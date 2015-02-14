@@ -472,3 +472,11 @@ if has("gui_running") || &t_Co == 88 || &t_Co == 256
 endif
 
 set background=dark
+highlight NonText guibg=#060606
+highlight Folded  guibg=#0A0A0A guifg=#9090D0
+highlight clear SpellBad
+highlight clear SpellCap
+highlight clear SpellRare
+highlight SpellBad cterm=underline ctermfg=Magenta
+highlight SpellRare cterm=underline ctermfg=Brown
+highlight SpellCap cterm=underline ctermfg=LightBlue
